@@ -1,6 +1,8 @@
 # DeepLearning-CV-PneumoniaDetectionSystem
 Build a pneumonia detection system, to locate the position of inflammation in an image
 
+Dataset - https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview/acknowledgements
+
 # Projet Description
 
 Tissues with sparse material, such as lungs which are full of air, do not absorb the X-rays and
